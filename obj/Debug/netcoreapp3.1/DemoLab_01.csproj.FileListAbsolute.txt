@@ -1,0 +1,13 @@
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\bin\Debug\netcoreapp3.1\DemoLab_01.exe
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\bin\Debug\netcoreapp3.1\DemoLab_01.deps.json
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\bin\Debug\netcoreapp3.1\DemoLab_01.runtimeconfig.json
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\bin\Debug\netcoreapp3.1\DemoLab_01.runtimeconfig.dev.json
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\bin\Debug\netcoreapp3.1\DemoLab_01.dll
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\bin\Debug\netcoreapp3.1\DemoLab_01.pdb
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\obj\Debug\netcoreapp3.1\DemoLab_01.csprojAssemblyReference.cache
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\obj\Debug\netcoreapp3.1\DemoLab_01.AssemblyInfoInputs.cache
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\obj\Debug\netcoreapp3.1\DemoLab_01.AssemblyInfo.cs
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\obj\Debug\netcoreapp3.1\DemoLab_01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\obj\Debug\netcoreapp3.1\DemoLab_01.dll
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\obj\Debug\netcoreapp3.1\DemoLab_01.pdb
+C:\Users\DELL\vs_workspace\DemoLab_01\DemoLab_01\obj\Debug\netcoreapp3.1\DemoLab_01.genruntimeconfig.cache
